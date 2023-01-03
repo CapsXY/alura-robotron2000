@@ -16,7 +16,7 @@ Curso de Manipulação da DOM com JS realizado pela Alura.
 </p>
 
 <p align="center">
-  <img alt="Projeto" src="assets/desktop.png">
+  <img alt="Projeto" src="img/desktop.png">
 </p>
 
 <br>
@@ -36,13 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📚 Projeto
 
-O **Calendário de Jogos** é uma aplicação web que permite exibir jogos da Copa do Mundo de 2022.
-
-<br>
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Eh3CCaTTVZozrnVkX2Gmsf/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+O **Robotron 2K** é uma aplicação web que permite personalizar seu personagem pontuando seus atributos.
 
 <br>
 
