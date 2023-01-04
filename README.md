@@ -40,6 +40,12 @@ O **Robotron 2K** é uma aplicação web que permite personalizar seu personagem
 
 <br>
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://robotron2k.netlify.app).
+
+<br>
+
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT.
